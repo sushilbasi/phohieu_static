@@ -75,7 +75,7 @@ const MENU = [
     items: [
       { code: "V1", name: "Vermicelli with Fried Spring Rolls", vi: "Bún chả giò", price: "14.00", flags: "p" },
       { code: "V2", name: "Vermicelli with Grilled Pork & Spring Rolls", vi: "Bún chả giò thịt nướng", price: "17.00", flags: "p" },
-      { code: "V3", name: "Vermicelli with Grilled Chicken & Spring Rolls", vi: "Bún chả giò gà nướng", price: "18", flags: "p" },
+      { code: "V3", name: "Vermicelli with Grilled Chicken & Spring Rolls", vi: "Bún chả giò gà nướng", price: "18.00", flags: "p" },
       { code: "V4", name: "Vermicelli with Grilled Chicken & Pork", vi: "Bún thịt nướng gà nướng", price: "18.50", flags: "p" },
       { code: "V5", name: "Vermicelli with Grilled Pork, Chicken & Spring Rolls", vi: "Bún chả giò thịt nướng gà nướng", price: "20.00", flags: "p" },
       { code: "V6", name: "Vermicelli with Grilled Pork, Shrimp Sugar Cane & Spring Rolls", vi: "Bún chả giò chạo tôm thịt nướng", price: "20.00", flags: "p" },
