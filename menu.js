@@ -107,6 +107,7 @@ const MENU = [
       { code: "", name: "Side Beef Short Ribs", vi: "Sườn bò ăn kèm", price: "12.00" },
       { code: "", name: "Mixed Vegetable", vi: " ", price: "4.00" },
       { code: "", name: "Broth Substitution", vi: " ", price: "2.00" },
+      { code: "", name: "32oz Broth Container (Beef, Chicken, Veggie Broth)", vi: " ", price: "7.00" },
     ],
   },
   {
