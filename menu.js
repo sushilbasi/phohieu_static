@@ -27,8 +27,8 @@ const MENU = [
       { code: "A8", name: "Vietnamese Style Chicken Wings", vi: "Cánh gà chiên nước mắm", price: "13.99" },
       { code: "A9", name: "Bean Curd Shrimp", vi: "Tàu hũ ky tôm", price: "11.00" },
       { code: "A10", name: "Shrimp on Sugar Cane", vi: "Chạo tôm", price: "11.00" },
-      { code: "A11", name: "Mango Salad", vi: "Gỏi xoài", price: "13.00" },
-      { code: "A12", name: "Fried Tofu", vi: "Tàu hũ chiên", price: "12.00" },
+      { code: "A11", name: "Mango Salad", vi: "Gỏi xoài", price: "13.00", flags: "p" },
+      { code: "A12", name: "Fried Tofu", vi: "Tàu hũ chiên", price: "12.00", flags: "p" },
     ],
   },
   {
