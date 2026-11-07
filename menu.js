@@ -33,7 +33,7 @@ const MENU = [
   },
   {
     title: "Phở",
-    note: "Vietnamese noodle soup, served in one large size.",
+    note: "Available in large size only for takeout.",
     items: [
       { code: "S1", name: "House Special Phở (Rare Beef, Flank, Tendon, Beef Balls, and Tripes)", vi: "Phở đặc biệt", price: "18.99" },
       { code: "S2", name: "Rare Beef Phở", vi: "Phở tái", price: "18.00" },
